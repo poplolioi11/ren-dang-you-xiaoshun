@@ -29,4 +29,6 @@ Claude produced separate readings from the fixed images and reviewed 30 comparis
 
 歷史原文及忠實轉錄按公有領域狀態提供。新增且受著作權保護的說明與整理編排採 CC BY 4.0。 [權利說明](LICENSE.md)
 
-曲宸宇（Chu, Chen-Yu）。2026。人當有孝順父母之實（DRS 431236542） / Ren dang you xiaoshun fumu zhi shi: Transcription Dataset。v0.2.0。資料集。 [固定發行](https://github.com/poplolioi11/ren-dang-you-xiaoshun/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914)
+曲宸宇（Chu, Chen-Yu）。2026。人當有孝順父母之實（DRS 431236542） / Ren dang you xiaoshun fumu zhi shi: Transcription Dataset。v0.2.0。資料集。 [固定發行](https://github.com/poplolioi11/ren-dang-you-xiaoshun/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914) · [版本 DOI](https://doi.org/10.5281/zenodo.24466099) · [系列 DOI](https://doi.org/10.5281/zenodo.24466098)
+
+`PACKAGE-SHA256SUMS.txt` 對應固定 v0.2.0 發行包。此頁與引用檔在 GitHub `main` 補列經公開讀回核對的 Zenodo DOI。

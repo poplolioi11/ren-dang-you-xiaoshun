@@ -30,5 +30,13 @@
     "Late Qing Chinese Christian broadsides",
     "古籍轉錄",
     "Historical text transcription"
+  ],
+  "doi": "10.5281/zenodo.24466099",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24466098",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
