@@ -1,0 +1,34 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "人當有孝順父母之實（DRS 431236542） / Ren dang you xiaoshun fumu zhi shi: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/ren-dang-you-xiaoshun/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/ren-dang-you-xiaoshun",
+  "abstract": "Ren dang you xiaoshun fumu zhi shi is a Chinese Christian broadside printed in Xiamen in 1847, with the overall heading Yesujiao zhi dao. Beginning with ancient sacrificial rites, it contrasts caring for living parents with offerings to ancestral tablets after their deaths. It argues that rites cannot substitute for filial conduct and ends by proposing that families record their parents’ good deeds in genealogies for descendants to remember and emulate. The broadside documents how missionary print in late Qing Xiamen drew on filial ethics and family records to discuss ancestral rites. Its author and publisher are unidentified.\n\nThis dataset uses 1 fixed image from Harvard-Yenching Library DRS 431236542. The main text is transcribed from 1 page. The AI-reviewed JSON, TXT and TEI transcription retains 17 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "廈門傳教印刷",
+    "Missionary printing in Xiamen",
+    "孝道",
+    "Filial piety",
+    "祖先祭祀",
+    "Ancestor rites",
+    "木主",
+    "Ancestral tablets",
+    "族譜",
+    "Family genealogies",
+    "晚清華文基督教單張",
+    "Late Qing Chinese Christian broadsides",
+    "古籍轉錄",
+    "Historical text transcription"
+  ]
+}
